@@ -1,0 +1,14 @@
+{
+  "name": "discordbot-skyblock",
+  "version": "1.0.0",
+  "description": "Output de Consola de SkyBlock",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paradise Chile Network",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
